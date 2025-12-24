@@ -20,11 +20,15 @@ Since this is soft lithography on PDMS, I can punch holes after lithography with
 
 ## Process for Creating the Chip
 
-1) Make the mask
-2) ...
+1) **Design the mask**
+2) **Print the Mask**
+3) **Setup UV Soft Lithography**
+4) **Bake and Cure? (idk here)**
+5) **Add Ports**
+6) **Clean and Test!**
 
 
-### 1) Make the mask
+### 1) Design the mask
 
 For making the mask, I used onshape to develop the channel 
 
@@ -41,3 +45,6 @@ BTW - klayout is a horribly confusing piece of software at first use. I recommen
  **Ports Note:** Ports do not need to be put in the mask. We can punch these after with a mm punch.
 
 Ok so now that this mask is in klayout. I can export as a gds file! I have put it in the same directory as this chip demo (you won't be able to see it in obsidian but you can check your files.)
+
+### 2) Print the Mask
+
