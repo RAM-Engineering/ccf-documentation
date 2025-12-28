@@ -1,0 +1,11 @@
+
+Microfabrication techniques are techniques used to create micro or nano scale devices. 
+
+### Types of Fabrication
+
+Techniques can mostly be broken into [[Common Additive Manufacturing Techniques|Additive]] or [[ Common Subtractive Manufacturing Techniques|Subtractive]] techniques. Some methods such as [[Lithography|lithography]] fit into both.
+
+
+#### Silicon and other materials
+
+No conversation on microfabrication is complete without a discussion of silicon. Silicon is by far the most well established material for microfabrication due to its long history in microelectronics.

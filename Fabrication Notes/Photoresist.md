@@ -1,4 +1,4 @@
-Photoresist is a light sensitive polymeric coating typically used in [[What is Lithography in Microfabrication?|lithography]] to transfer a pattern into a substrate. 
+Photoresist is a light sensitive polymeric coating typically used in [[Lithography|lithography]] to transfer a pattern into a substrate. 
 
 
 ### Positive Resist vs Negative Resist
