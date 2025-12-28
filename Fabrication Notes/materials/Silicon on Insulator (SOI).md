@@ -4,4 +4,4 @@ The process to make this wafer structure is called [[Separation by Implantation 
 
 ![[Pasted image 20251228173456.png]]
 
-Although SOI wafers are important to the industry, they are not what is used today in large scale fabs. This is where bulk FINFET are used. SOI wafers still have applications in low power or analog devices however.
+Although SOI wafers are important to the industry, they are not what is used today in large scale fabs. This is where bulk [[Fin Field Effect Transistor (FinFET)]] (FinFET made on a bulk silicon substrate) is used. SOI wafers still have applications in low power or analog devices however.
