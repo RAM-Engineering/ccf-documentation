@@ -7,7 +7,7 @@ All dry etching is fundamentally a form of physical-chemical etching (dry etchin
 - [[Anodic Plasma Etching (APE)]]
 - [[Magnetically Enhanced Reactive Ion Etching (MERIE)]]
 - [[Triode Reactive Ion Etching (TRIE)]]
-- [[Transmision Coupled Plasma Etching (TCPE)]]
+- [[Transmission Coupled Plasma Etching (TCPE)]]
 
 #### Physical Dry Etching
 

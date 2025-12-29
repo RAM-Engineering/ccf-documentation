@@ -5,7 +5,7 @@ Microfabrication techniques are techniques used to create micro or nano scale de
 
 Methods of fabrication can mostly be broken into [[Common Additive Manufacturing Techniques|Additive]] or [[ Common Subtractive Manufacturing Techniques|Subtractive]] techniques. Some methods such as [[Lithography|lithography]] fit into both.
 
-Many [[Transfer Techniques]] use a combination of methods in order to achieve final results. Typical semiconductor fabrication uses both selective dry etching/deposition via photolithography mixed with non selective material targeted wet etching in order to alter the target material/substrate in the manner desired.
+Many [[Transfer Techniques]] use a combination of methods in order to achieve final results. Most semiconductor fabrication uses these transfer techniques in order to build the desired architectures.
 
 A list of many fabrication methods (although not exhaustive):
 - [[Chemical Vapor Deposition (CVD)]]
