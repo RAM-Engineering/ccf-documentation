@@ -1,0 +1,1 @@
+RIE is a form of [[Dry Etching]] and is the most important for micro fabrication. Reactant gases are excited to ions and then under low pressures and a strong electrical field, ions are sent to the substrate at a perpendicular angle allowing for high aspect ratios. Techniques that allow for very high aspect ratios are called **Deep Reactive Ion Etching (DRIE)**.
