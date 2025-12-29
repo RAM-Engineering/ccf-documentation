@@ -6,4 +6,4 @@ In this repo we use obsidian to store knowledge and documentation from all of ou
 
 Please first review the "What is Documentation.md" first if you are new to the organization.
 
-If you are interested in learning more about fabrication, I highly reccomend checking out fabrication techniques and looking at the [[Intro to Microfabrication]].
+If you are interested in learning more about fabrication, I highly reccomend checking out fabrication techniques and looking at the [[Microfabrication]].
