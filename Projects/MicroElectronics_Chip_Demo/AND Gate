@@ -1,0 +1,15 @@
+module and_gate //defines module meaning, inputs, and outputs
+  (
+    input_1,
+    input_2,
+    and_result);
+
+input input_1; //sets which values are inputs/outputs when used in the future
+input input_2;
+output and_result;
+
+wire and_temp; //sets up a temporary value using a wire, which can not remember values. This is redundant, but useful in more complex projects
+
+assign and_temp = input_1 & input_2; //& is doing the and-ing, and assign is literally assigning a value to a variable
+assign and_result = and_temp;
+endmodule //wrap it up in a bow
