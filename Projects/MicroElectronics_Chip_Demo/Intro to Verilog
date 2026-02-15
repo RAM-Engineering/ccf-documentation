@@ -1,0 +1,11 @@
+You, like me, just downloaded verilog and experienced the true fear of a nerd in over their own head. That's okay! What doesn't kill us makes us stronger.
+Sometimes.
+
+First, let's go over what verilog is actually for. It's a Hardware Description Language (HDL), which means you'll be programming low down. If the UI is the deck of a cruise ship, you're clinging to the keel. You are programming the logic gates of a chip. Pretty crazy!
+Verilog is used for Field Programmable Gate Arrays (FPGAs) and Application-Specific Integrated Circuits (ASICs). 
+https://nandland.com/lesson-2-fpga-vs-micro-vs-asic/
+
+Verilog looks a lot like C, which is why we use it instead of VHDL. There's good documentation on Icarus Verilog (https://steveicarus.github.io/iverilog/), and several versions you can download are kept up-to-date. Following the "Getting Started with Icarus Verilog" guide is very helpful, but doesn't tell you much about the capabilities of verilog. For some more tutorials, check out https://nandland.com/introduction-to-verilog-for-beginners-with-code-examples/
+Nandland, both the YouTube channel and blog, have a ton of useful information. Additionally, hopefully, we may get a copy of Russell Merrick's book on FPGAs (Russell Merrick runs Nandland). There's another tutorial, which explains some key concepts for programming in verilog, here: https://www.ewskills.com/verilog/getting-started-verilog
+
+If you prefer a video format, try these:
